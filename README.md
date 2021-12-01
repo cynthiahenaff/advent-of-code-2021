@@ -16,8 +16,6 @@ Fork it/clone it, and get started!
   </tbody>
 </table>
 
-![Demo animated gif](demo.gif)
-
 ## How to
 
 ![Animated gif demo](demo.gif)
