@@ -1,8 +1,4 @@
 # 🎄 Advent of code 2021
-
-This is a starter for the advent of code, in TypeScript.
-Fork it/clone it, and get started!
-
 ## Completion
 
 <table>
@@ -13,6 +9,24 @@ Fork it/clone it, and get started!
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>Day 01</td>
+      <td>
+        <a href="https://github.com/cynthiahenaff/advent-of-code-2021/tree/main/src/01">
+          <img src="https://badgen.net/badge/01/%E2%98%85%E2%98%85/green" alt="" />
+        </a>
+      </td>
+    </tr>
+
+    <tr>
+      <td>Day 02</td>
+      <td>
+        <a href="https://github.com/cynthiahenaff/advent-of-code-2021/tree/main/src/02">
+          <img src="https://badgen.net/badge/02/%E2%98%85%E2%98%85/green" alt="" />
+        </a>
+      </td>
+    </tr>
+
   </tbody>
 </table>
 

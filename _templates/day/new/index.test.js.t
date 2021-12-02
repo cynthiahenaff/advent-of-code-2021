@@ -4,12 +4,14 @@ to: src/<%=day%>/index.test.ts
 
 import { formatInput, partOne, partTwo } from './';
 
-const partOneInput = ``;
+const input = ``;
 
-test('gets correct part one sample answer', () => {
-  // expect(partOne(formatInput(partOneInput))).toBe();
-});
+describe('<%=day%>', () => {
+  test('gets correct part one sample answer', () => {
+    // expect(partOne(formatInput(input))).toBe(undefined);
+  });
 
-test('gets correct part two sample answer', () => {
-  // expect(partTwo(formatInput(partOneInput))).toBe();
+  test('gets correct part two sample answer', () => {
+    // expect(partTwo(formatInput(input))).toBe(undefined);
+  });
 });
