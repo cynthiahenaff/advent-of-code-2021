@@ -27,7 +27,6 @@ export const partOne = input => {
 export const partTwo = input => {
   const { horizontal, depth } = input.reduce(
     (acc, curr) => {
-      console.log;
       switch (curr.direction) {
         case 'forward':
           return {
