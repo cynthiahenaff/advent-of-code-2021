@@ -81,6 +81,15 @@
       </td>
     </tr>
 
+    <tr>
+      <td>Day 08</td>
+      <td>
+        <a href="https://github.com/cynthiahenaff/advent-of-code-2021/tree/main/src/08">
+          <img src="https://badgen.net/badge/08/%E2%98%85%E2%98%85/green" alt="" />
+        </a>
+      </td>
+    </tr>
+
   </tbody>
 </table>
 
