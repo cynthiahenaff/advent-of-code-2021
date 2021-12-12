@@ -1,4 +1,7 @@
 # 🎄 Advent of code 2021
+
+This is a repository containing my solutions for the year 2021!
+
 ## Completion
 
 <table>
@@ -17,7 +20,6 @@
         </a>
       </td>
     </tr>
-
     <tr>
       <td>Day 02</td>
       <td>
@@ -26,7 +28,6 @@
         </a>
       </td>
     </tr>
-
     <tr>
       <td>Day 03</td>
       <td>
@@ -35,16 +36,14 @@
         </a>
       </td>
     </tr>
-
-    <tr>
-      <td>Day 07</td>
+     <tr>
+      <td>Day 05</td>
       <td>
-        <a href="https://github.com/cynthiahenaff/advent-of-code-2021/tree/main/src/07">
-          <img src="https://badgen.net/badge/07/%E2%98%85%E2%98%85/green" alt="" />
+        <a href="https://github.com/cynthiahenaff/advent-of-code-2021/tree/main/src/05">
+          <img src="https://badgen.net/badge/05/%E2%98%85%E2%98%85/green" alt="" />
         </a>
       </td>
     </tr>
-
     <tr>
       <td>Day 06</td>
       <td>
@@ -53,34 +52,14 @@
         </a>
       </td>
     </tr>
-
     <tr>
-      <td>Day 05</td>
+      <td>Day 07</td>
       <td>
-        <a href="https://github.com/cynthiahenaff/advent-of-code-2021/tree/main/src/05">
-          <img src="https://badgen.net/badge/05/%E2%98%85%E2%98%85/green" alt="" />
+        <a href="https://github.com/cynthiahenaff/advent-of-code-2021/tree/main/src/07">
+          <img src="https://badgen.net/badge/07/%E2%98%85%E2%98%85/green" alt="" />
         </a>
       </td>
     </tr>
-
-    <tr>
-      <td>Day 09</td>
-      <td>
-        <a href="https://github.com/cynthiahenaff/advent-of-code-2021/tree/main/src/09">
-          <img src="https://badgen.net/badge/09/%E2%98%85%E2%98%85/green" alt="" />
-        </a>
-      </td>
-    </tr>
-
-    <tr>
-      <td>Day 10</td>
-      <td>
-        <a href="https://github.com/cynthiahenaff/advent-of-code-2021/tree/main/src/10">
-          <img src="https://badgen.net/badge/10/%E2%98%85%E2%98%85/green" alt="" />
-        </a>
-      </td>
-    </tr>
-
     <tr>
       <td>Day 08</td>
       <td>
@@ -89,7 +68,22 @@
         </a>
       </td>
     </tr>
-
+    <tr>
+      <td>Day 09</td>
+      <td>
+        <a href="https://github.com/cynthiahenaff/advent-of-code-2021/tree/main/src/09">
+          <img src="https://badgen.net/badge/09/%E2%98%85%E2%98%85/green" alt="" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Day 10</td>
+      <td>
+        <a href="https://github.com/cynthiahenaff/advent-of-code-2021/tree/main/src/10">
+          <img src="https://badgen.net/badge/10/%E2%98%85%E2%98%85/green" alt="" />
+        </a>
+      </td>
+    </tr>
     <tr>
       <td>Day 11</td>
       <td>
@@ -98,36 +92,5 @@
         </a>
       </td>
     </tr>
-
   </tbody>
 </table>
-
-### 1. Install dependencies
-
-```shell
-yarn
-```
-
-### 2. Generate a day files
-
-```shell
-yarn generate
-# or
-yarn generate --day 01
-```
-
-### 3. Run a single day
-
-```shell
-yarn start
-# or, to keep process open and listen to changes
-yarn dev --day 01
-```
-
-### 4. Mark day as complete
-
-```shell
-yarn complete
-# or
-yarn complete --day 01 --stars 2
-```
